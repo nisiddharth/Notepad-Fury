@@ -1,2 +1,6 @@
 # Notepad-Fury
 A full fledged text editor similar to Windows' Notepad with theme support...
+
+
+To use:
+  just download the Notepad.jar file and double click on it to launch Notepad...
